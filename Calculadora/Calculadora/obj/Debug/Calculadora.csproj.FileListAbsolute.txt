@@ -1,0 +1,11 @@
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\wndows form\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
